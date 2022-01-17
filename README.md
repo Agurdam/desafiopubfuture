@@ -4,6 +4,7 @@
 #Primeiramente peço desculpas por qualquer erro, pois é a minha primeira vez utilizando o GitHUb. Agora, vamos ao que interessa.
 
 # O presente projeto utilizou as seguintes bibliotecas:
+
     #Persistence (JPA 2.1)
     #Hibernate 4.3x
     #EclipseLink (JPA 2.1)
@@ -13,15 +14,15 @@
     #log4j-1.2.16
     #log4j-api-2.0.1
     #mysql-connector-java-8.0.27
-  
-#Banco de dados MySQL(XAMPP)
+    
+#Banco de dados MySQL(XAMPP):
+
     #Nome do banco de dados: desafiopub
     #Usuario: root
     #Senha: ""
     #Porta: 3306
-
-#Script para criação do banco de dados:
     
+#Script para criação do banco de dados: 
     
     create database desafioPub
     use desafioPub;
